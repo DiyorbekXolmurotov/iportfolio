@@ -76,6 +76,7 @@ h6 {
   font-family: var(--heading-font);
 }
 
+
 /*--------------------------------------------------------------
 # Global Header
 --------------------------------------------------------------*/
@@ -633,10 +634,14 @@ section,
 }
 
 .skills .progress {
-  height: 60px;
+  height: 150px;
   display: block;
   background: none;
   border-radius: 0;
+}
+
+.css_logo {
+  height: 100px;
 }
 
 .skills .progress .skill {
