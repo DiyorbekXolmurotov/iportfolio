@@ -312,15 +312,23 @@ h6 {
   font-size: 14px;
   padding: 40px 0;
   position: relative;
+
+}
+
+.footer .container { 
+  display: flex;
+  justify-content: center;
+  gap: 30px;
 }
 
 .footer .copyright p {
   margin-bottom: 0;
+  margin-top:  5px;
 }
 
 .footer .credits {
   margin-top: 4px;
-  font-size: 13px;
+  font-size: 17px;
   text-align: center;
 }
 
