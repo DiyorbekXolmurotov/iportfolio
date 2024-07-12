@@ -642,14 +642,15 @@ section,
 }
 
 .skills .progress {
-  height: 150px;
+  height: 300px;
   display: block;
   background: none;
   border-radius: 0;
 }
 
 .css_logo {
-  height: 100px;
+  max-height: 300px;
+  max-width: 350px;
 }
 
 .skills .progress .skill {
